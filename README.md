@@ -1,6 +1,6 @@
 ## Ruby OOP
 
-[repo](https://github.com/vasiliy-klimkin/apr1-2019-w7d1-breakout)
+[repo](https://github.com/vasiliy-klimkin/w7-d1-br1)
 
 
 Today We talked about ruby and OOP.
